@@ -12,4 +12,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Pandas 
 pip install pandas
 pip install sklearn
 ```
+![Example image](example.jpg)
 
+Image source: Daily Dose of Datascience
